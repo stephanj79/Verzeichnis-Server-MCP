@@ -1,8 +1,5 @@
 # Verzeichnis-Server-MCP (Model Context Protocol)
 Ein robustes C#-Backend, das KI-Agenten die Fähigkeit verleiht, sicher und kontrolliert mit dem lokalen Dateisystem zu interagieren. Dieses Repository implementiert ein definiertes Protokoll, über das ein Agent Aktionen wie das Auflisten von Verzeichnissen, das Lesen oder Schreiben von Dateien anfordern kann. in Verbindung mit N8N ideal zu nutzen.
-___
-# Directory Server MCP (Model Context Protocol)
-A robust C# backend that gives AI agents the ability to interact with the local file system in a secure and controlled manner. This repository implements a defined protocol through which an agent can request actions such as listing directories or reading and writing files. Ideal for use in conjunction with N8N.
 
 ## ✨ Features / Verfügbare Skills
 - Verzeichnisse auflisten (directory_list): Gibt den Inhalt eines bestimmten Verzeichnisses zurück. Unterstützt rekursive und nicht-rekursive Suchen.✅
@@ -15,6 +12,9 @@ A robust C# backend that gives AI agents the ability to interact with the local 
 - Verzeichnis erstellen (create_directory): Erstellt ein neues Verzeichnis am angegebenen Pfad.
 - Verzeichnis löschen (delete_directory): Entfernt ein leeres oder volles Verzeichnis.
 ___
+# Directory Server MCP (Model Context Protocol)
+A robust C# backend that gives AI agents the ability to interact with the local file system in a secure and controlled manner. This repository implements a defined protocol through which an agent can request actions such as listing directories or reading and writing files. Ideal for use in conjunction with N8N.
+
 ## ✨ Features / Available Skills
 - List Directories (directory_list): Returns the content of a specified directory. Supports recursive and non-recursive searches. ✅
 - Copy File (copy_file): Copies a file from a source to a destination path.
@@ -25,7 +25,7 @@ ___
 - Write Text File (write_text_file): Writes a string to a text file (creates or overwrites it).
 - Create Directory (create_directory): Creates a new directory at the specified path.
 - Delete Directory (delete_directory): Removes an empty or full directory.
-
+___
 ## How to use in n8n
 <img width="1247" height="772" alt="image" src="https://github.com/user-attachments/assets/4c9d1f9d-1fcd-4791-85bc-296b8f2a67ff" />
 ___
