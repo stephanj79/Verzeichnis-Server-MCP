@@ -12,7 +12,7 @@ Ein robustes C#-Backend, das KI-Agenten die Fähigkeit verleiht, sicher und kont
 - Verzeichnis erstellen (create_directory): Erstellt ein neues Verzeichnis am angegebenen Pfad.
 - Verzeichnis löschen (delete_directory): Entfernt ein leeres oder volles Verzeichnis.
 ___
-# Directory Server MCP (Model Context Protocol)
+# Filesystem Server MCP (Model Context Protocol)
 A robust C# backend that gives AI agents the ability to interact with the local file system in a secure and controlled manner. This repository implements a defined protocol through which an agent can request actions such as listing directories or reading and writing files. Ideal for use in conjunction with N8N.
 
 ## ✨ Features / Available Skills
