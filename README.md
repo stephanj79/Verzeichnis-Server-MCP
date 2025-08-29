@@ -28,10 +28,17 @@ A robust C# backend that gives AI agents the ability to interact with the local 
 ___
 ## How to use in n8n
 ### Credential
+
 <img width="1247" height="772" alt="image" src="https://github.com/user-attachments/assets/4c9d1f9d-1fcd-4791-85bc-296b8f2a67ff" />
+
 ___
+
 ### MCP List Tools
+
 <img width="845" height="845" alt="image" src="https://github.com/user-attachments/assets/693e5ce9-fe39-40ec-930a-8e04f0f064fe" />
+
 ___
+
 ### Execute directory_list (parameter)
+
 <img width="1109" height="633" alt="image" src="https://github.com/user-attachments/assets/53523fc9-8ba9-480a-b136-ab8e5c35d3a4" />
