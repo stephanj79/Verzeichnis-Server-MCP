@@ -2,7 +2,7 @@
 Ein robustes C#-Backend, das KI-Agenten die Fähigkeit verleiht, sicher und kontrolliert mit dem lokalen Dateisystem zu interagieren. Dieses Repository implementiert ein definiertes Protokoll, über das ein Agent Aktionen wie das Auflisten von Verzeichnissen, das Lesen oder Schreiben von Dateien anfordern kann.
 
 
-✨ Features / Verfügbare Skills
+# ✨ Features / Verfügbare Skills
 - Verzeichnisse auflisten (directory_list): Gibt den Inhalt eines bestimmten Verzeichnisses zurück. Unterstützt rekursive und nicht-rekursive Suchen.
 - Datei kopieren (copy_file): Kopiert eine Datei von einem Quell- zu einem Zielpfad.
 - Datei verschieben/umbenennen (move_file) Verschiebt oder benennt eine Datei um.
@@ -13,4 +13,11 @@ Ein robustes C#-Backend, das KI-Agenten die Fähigkeit verleiht, sicher und kont
 - Verzeichnis erstellen (create_directory): Erstellt ein neues Verzeichnis am angegebenen Pfad.
 - Verzeichnis löschen (delete_directory): Entfernt ein leeres oder volles Verzeichnis.
 
+# Wie benutzen in N8N
 <img width="1247" height="772" alt="image" src="https://github.com/user-attachments/assets/4c9d1f9d-1fcd-4791-85bc-296b8f2a67ff" />
+___
+<img width="845" height="845" alt="image" src="https://github.com/user-attachments/assets/693e5ce9-fe39-40ec-930a-8e04f0f064fe" />
+___
+<img width="1109" height="633" alt="image" src="https://github.com/user-attachments/assets/53523fc9-8ba9-480a-b136-ab8e5c35d3a4" />
+___
+
